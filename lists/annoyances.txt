@@ -1,2 +1,0 @@
-! Site overlays
-www.rockauto.com##table.nobmp:has(tbody > tr.welcome-box-background) 
